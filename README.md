@@ -1,2 +1,2 @@
 # ToDoList
-Lista de afazeres do dia a dia com método pomodoro para estudos
+Lista de afazeres do dia a dia com implementação do método pomodoro para estudos
